@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "YAN Jin/ 颜锦"
+title                    : "YAN Jin/ 顏錦"
 title_separator          : "-"
 name                     : &name "YAN Jin"
 description              : &description "personal description"
@@ -25,19 +25,19 @@ author:
   avatar           : "profile.png"
   name             : "YAN Jin/颜锦"
   pronouns         : # example: "she/her"  
-  bio              : "CUHK PhD student"
+  bio              : "CUHK PhD student in linguistics"
   location         : "Hong Kong, China"
-  employer         : "The Chinese University of Hong Kong"
-  uri              : 
+  employer         : "CUHK"
+  uri              : #
   email            : "yanjin_cfau@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
