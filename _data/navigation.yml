@@ -12,14 +12,11 @@ main:
   - title: "Presentations"
     url: /presentations/    
 
- - title: "Projects"
-    url: /projects/ 
-
+ - title:  "Portfolio"
+    url: /portfolio/
+    
   - title: # "Publications"
     url: /publications/   
-    
-  - title: # "Portfolio"
-    url: /portfolio/
         
   - title: # "Blog Posts"
     url: /year-archive/
