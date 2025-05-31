@@ -9,28 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Linguistics, The Chinese University of Hong Kong, 2029 (expected)
-* B.A. in English, China Foreign Affairs University, 2025
+[CV] (../assets/CV)
+# Education
+# ======
+# * Ph.D in Linguistics, The Chinese University of Hong Kong, 2029 (expected)
+# * B.A. in English, China Foreign Affairs University, 2025
 
-Work experience
-======
 
-  
-Skills
-======
-
-Publications
-======
-
-  
-Talks
-======
-  
-Teaching
-======
- 
-Service and leadership
-======
 
