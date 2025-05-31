@@ -1,6 +1,7 @@
-permalink: talks/
+
+permalink: /talks/
 title: "Presentations"
 author_profile: true
 
 
-Presentations in 2025
+**Presentations in 2025** 
