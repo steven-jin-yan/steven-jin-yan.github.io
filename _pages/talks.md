@@ -8,7 +8,7 @@ author_profile: true
 
 **Presentations in 2025** 
 ---
-font-size: 16px
+# font-size: 16px
 ---
 
   *  **Yan, Jin** and Victor Junnan Pan (2025) ‘Polar questions with interrogative adverbs in Chinese’, paper presented at International Conference on Formal Linguistics (ICFL-2025), Guangdong University of Foreign Studies, Guangzhou, November 8-9.
