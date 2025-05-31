@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV] (../assets/CV_Yan_Jin.pdf)
+You can find my CV here: [CV_Yan_Jin] (/assets/CV_Yan_Jin.pdf)
 
 
 
