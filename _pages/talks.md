@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-**Presentations in 2025** 
+**Presentations in 2026** 
 ---
 
   *  **Yan, Jin** and Victor Junnan Pan (2026) ‘Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min’, paper presented at [the III Workshop on Linguistic Variation at Interfaces (VARINT 2026)](https://esdeveniments.udg.edu/137059/section/60403/iii-workshop-on-linguistic-variation-at-interfaces-varint-2026.html), University of Girona, Spain, March 19-20.
