@@ -12,9 +12,10 @@ redirect_from:
 
 I am 顏錦 (YAN Jin, [jɛn˧˥tɕɪn˨˩˦] in Mandarin and [ŋaŋ˨kim˧˧˨] in Eastern Min Chinese), or you can call me Steven.
 
-I am a PhD student in linguistics at The Chinese University of Hong Kong (CUHK) from August, 2025, under the supervision of Professor [Victor Junnan PAN](https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/), and I am a member of [Prof. Victor Pan's lab](https://victorjunnanpan.github.io/pansyntaxlab/). My research interest is mainly on formal linguistics, especially on the Minimalist Program and Chinese syntax, including:
+I am now a PhD student in linguistics at The Chinese University of Hong Kong (CUHK) from August, 2025, under the supervision of Professor [Victor Junnan PAN](https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/), and I am a member of [Prof. Victor Pan's lab](https://victorjunnanpan.github.io/pansyntaxlab/). My research interests lie in the mapping between linguistic form and meaning in natural languages, as well as cross-linguistic variations. My research interest is mainly on formal linguistics, especially on the Minimalist Program of generative syntax and Chinese syntax, including:
 
-  * Syntax-discourse interface (discourse particles in Chinese dialects)
+  * Polar questions
+  * Discourse particles
   * A/A'-distinction
   * Free-Merge
 
