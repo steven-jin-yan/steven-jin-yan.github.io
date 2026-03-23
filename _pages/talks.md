@@ -16,7 +16,7 @@ author_profile: true
 **Presentations in 2025** 
 ---
 
-  *  **Yan, Jin** and Victor Junnan Pan (2025) ‘Polar questions with interrogative adverbs in Chinese’, paper presented at [2025 International Conference on Formal Linguistics (ICFL-2025)](http://icfl11.com/), Guangdong University of Foreign Studies, Guangzhou, November 8-9.
+  *  **Yan, Jin** and Victor Junnan Pan (2025) ‘Polar questions with sentence-middle interrogative particles in Chinese dialects’, paper presented at [2025 International Conference on Formal Linguistics (ICFL-2025)](http://icfl11.com/), Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
   *   **Yan, Jin** and Victor Junnan Pan (2025) ‘Polar question in Yunnan Mandarin: interaction with adverbs and derivation’, poster presented at [the 27th Seoul International Conference on Generative Grammar (SICOGG27)](https://sites.google.com/view/sicogg27/home), Sogang University, Seoul, South Korea, August 14-16.
 
