@@ -18,6 +18,7 @@ I am now a PhD student in linguistics at The Chinese University of Hong Kong (CU
   * Discourse particles
   * A/A'-distinction
   * Free-Merge
+  * Minority languages, dialects and language variations
 
 Besides, I am also exploring neurolinguistics, looking forward to explaining human languages from a different perspective.
 
