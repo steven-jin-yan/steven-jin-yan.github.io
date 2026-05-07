@@ -11,6 +11,7 @@ author_profile: true
 
 
   *  **Yan, Jin** and Victor Junnan Pan (2026) 'Toward a typology of yes/no questions in Mandarin Chinese dialects: temporal and spatial evolutions', paper presented at [Methods in Dialectology and Language Diversity XIX (Methods XIX)](https://methodsxix.ubc.ca), University of British Columbia, Vancouver, Canada, August 4-7.
+  *  **Yan, Jin** (2026) 'Revisit Mandarin A-not-A questions: adverbials and cartography', poster presented at [the 15th International Workshop on Theoretical East Asian Linguistics (TEAL-15)](https://www.cuhk.edu.hk/ics/clrc/teal15/index.html), The Chinese University of Hong Kong, Hong Kong, June 5-6.
   *  **Yan, Jin** and Victor Junnan Pan (2026) ‘Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min’, paper presented at [the III Workshop on Linguistic Variation at Interfaces (VARINT 2026)](https://esdeveniments.udg.edu/137059/section/60403/iii-workshop-on-linguistic-variation-at-interfaces-varint-2026.html), University of Girona, Spain, March 19-20.
 
 **Presentations in 2025** 
