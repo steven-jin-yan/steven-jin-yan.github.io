@@ -4,7 +4,7 @@ title: "Presentations"
 author_profile: true
 ---
 
-**Presentations in 2026** 
+**Presentations in 2027** 
 ---
   * **Yan, Jin** and Victor Junnan Pan (2027). ‘The syntax of sentence-internal particles: comparative study of Chinese dialects and German’. paper presented at [Zooming in on Modal Particles: Pragmatic Meaning and Function under the Microscope Workshop](https://uni-tuebingen.de/en/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-common-ground/calls-for-papers/workshop-zooming-in-on-modal-particles/) at [the Annual Meeting of the German Society of Linguistics (DGfS 2027)](https://www.gw.uni-jena.de/101200/dgfs-2027), University of Jena, Jena, Germany, March 2-5.
 
